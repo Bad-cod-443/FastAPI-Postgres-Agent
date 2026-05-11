@@ -5,7 +5,7 @@ db_config = {
     "port": "5432",
     "database": "postgres", 
     "user": "postgres",
-    "password": "Tap81rus!" 
+    "password": "" 
 }
 
 try:
