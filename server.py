@@ -15,7 +15,7 @@ DB_CONFIG = {
     "port": os.getenv("DB_PORT", "5432"),
     "database": os.getenv("DB_NAME", "postgres"),
     "user": os.getenv("DB_USER", "postgres"),
-    "password": os.getenv("Tap81rus!")
+    "password": os.getenv("")
 }
 
 # Модель данных для записи
